@@ -1,4 +1,4 @@
-# **🌦️ Weather Analytics Dashboard (Power BI + WeatherAPI.com)**
+# **🌦️ Real-Time Weather Analytics & Forecasting Dashboard (Power BI | WeatherAPI)  **
 ### 📌 Overview
 
 This project fetches real-time and forecast weather data for five major cities in **West Bengal — Digha, Contai, Kolkata, Haldia, and Kharagpur** — using **WeatherAPI.com.**
